@@ -20,10 +20,10 @@
 3. Depending on the command you run, the output will vary.
 
     * Example 1: Run the concert-this command
-        <ul>node liri.js concert-this <name of artist or band></ul>
-        <ul>Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records.</ul>
-        <ul>See screen-shot below:</ul>
-        <ul>![Image of concert-this](images/concert-this.jpg)</ul>
+        * node liri.js concert-this <name of artist or band>
+        * Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records.
+        See screen-shot below:
+        ![Image of concert-this](images/concert-this.jpg)
 
     * Example 2: Run the spotify-this-song command
         <ul>node liri.js spotify-this-song <name of song></ul>
