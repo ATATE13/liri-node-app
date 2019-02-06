@@ -23,24 +23,24 @@
         <ul>node liri.js concert-this <name of artist or band></ul>
         <ul>Output: The system will display a list of all events and locations where the artist or band will perform. It can result in multiple records.</ul>
         <ul>See screen-shot below:</ul>
-        ![Image of concert-this](images/concert-this.jpg)
+        <ul>![Image of concert-this](images/concert-this.jpg)</ul>
 
     * Example 2: Run the spotify-this-song command
         <ul>node liri.js spotify-this-song <name of song></ul>
         <ul>Output: The system will display a list of information associated with the song. It can result in multiple records.</ul> <ul>See screen-shot below:</ul>
-        ![Image of spotify-this-song](images/spotify-this.jpg)
+        <ul>![Image of spotify-this-song](images/spotify-this.jpg)</ul>
 
     * Example 3: Run the movie-this command
         <ul>node liri.js movie-this <name of movie></ul>
         <ul>Output: The system will display information associated with the movie.</ul>
         <ul>See screen-shot below:</ul>
-        ![Image of movie-this](images/movie-this.jpg)
+        <ul>![Image of movie-this](images/movie-this.jpg)</ul>
 
     * Example 4: Run the do-what-it-says command
         <ul>node liri.js do-what-it-says</ul>
         <ul>Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.</ul>
         <ul>See screen-shot below:</ul>
-        ![Image of do-what-it-says](images/do-what-it-says.jpg)
+        <ul>![Image of do-what-it-says](images/do-what-it-says.jpg)</ul>
 
 
 ## <a name="technologies"></a> Technologies Used
